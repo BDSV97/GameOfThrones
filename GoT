@@ -23,7 +23,6 @@ PImage seleccion;
 PImage juego;
 PImage resolucion;
 PFont letra;
-PFont otra;
 PFont otra2;
 
 
@@ -46,7 +45,6 @@ PFont otra2;
      
   
       letra = createFont ("letra.ttf",200);
-      otra = createFont ("otra.otf",100);
       otra2 = createFont ("otra2.ttf",100);
       
       
